@@ -1,7 +1,7 @@
 # mastermind-game
 
 ## General info
-A Mastermind Game console application. 
+A Mastermind console application game.
 	
 ## Technologies
 The application is written in C#.
